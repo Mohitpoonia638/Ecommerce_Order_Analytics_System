@@ -1,0 +1,440 @@
+category,product_name,revenue,rank_in_category
+Beauty,Vitamin C Serum,286191.3,1
+Beauty,Soap,211948.45,2
+Beauty,Face Wash,179081.85,3
+Beauty,Face Cream,173765.45,4
+Beauty,Shampoo,147570.85,5
+Beauty,Lipstick,100314.5,6
+Books,SQL Cookbook,112999.0,1
+Books,Clean Code,98122.0,2
+Books,Python Crash Course,76288.4,3
+Books,Rich Dad Poor Dad,66012.9,4
+Books,Atomic Habits,35301.0,5
+Electronics,WH-1000XM5 128GB Green,9894268.8,1
+Electronics,OnePlus 13 64GB Blue,9615038.4,2
+Electronics,OnePlus 13 256GB Black,9340564.95,3
+Electronics,OnePlus Nord CE4 128GB Black,9212634.6,4
+Electronics,iPhone 15 Plus 64GB Green,8774193.35,5
+Electronics,Galaxy S24 512GB Black,8546008.95,6
+Electronics,iPhone 15 64GB Green,8392262.9,7
+Electronics,PlayStation Controller 64GB White,8226370.0,8
+Electronics,XPS 13 256GB Red,8179044.45,9
+Electronics,Stone Speaker 128GB Black,8034449.4,10
+Electronics,Inspiron 15 256GB Green,7988117.75,11
+Electronics,XPS 13 128GB Green,7987615.0,12
+Electronics,Galaxy Tab S9 64GB Green,7815327.75,13
+Electronics,iPhone 15 Plus 256GB Black,7807182.9,14
+Electronics,Stone Speaker 256GB Red,7779203.25,15
+Electronics,XPS 13 256GB Blue,7639801.4,16
+Electronics,OnePlus Nord CE4 512GB Red,7603867.5,17
+Electronics,OnePlus 13 128GB Black,7590448.75,18
+Electronics,Stone Speaker 512GB Green,7575802.65,19
+Electronics,iPhone 15 512GB Red,7549239.55,20
+Electronics,Stone Speaker 256GB Black,7535060.0,21
+Electronics,WH-1000XM5 128GB White,7511281.35,22
+Electronics,WH-1000XM5 128GB Silver,7477839.2,23
+Electronics,PlayStation Controller 128GB Silver,7460378.8,24
+Electronics,Airdopes 141 128GB Black,7421353.5,25
+Electronics,Apple Watch Series 10 256GB Silver,7399041.6,26
+Electronics,OnePlus Nord CE4 64GB White,7356247.7,27
+Electronics,Galaxy S24 128GB Green,7353853.2,28
+Electronics,Galaxy Tab S9 64GB Red,7327252.8,29
+Electronics,Pavilion 15 64GB Green,7245000.0,30
+Electronics,Victus Laptop 64GB Blue,7231600.0,31
+Electronics,XPS 13 128GB Red,7169464.8,32
+Electronics,Airdopes 141 256GB Black,7012194.0,33
+Electronics,OnePlus Nord CE4 128GB Blue,6959377.5,34
+Electronics,iPhone 15 Plus 64GB Red,6944055.6,35
+Electronics,iPhone 15 Plus 256GB White,6924691.35,36
+Electronics,Galaxy Tab S9 128GB Silver,6838405.0,37
+Electronics,Stone Speaker 128GB Red,6837826.05,38
+Electronics,Samsung Smart TV 256GB Red,6829606.25,39
+Electronics,iPhone 15 512GB Green,6775133.8,40
+Electronics,Galaxy S24 64GB Blue,6749985.0,41
+Electronics,PlayStation Controller 512GB Silver,6746557.8,42
+Electronics,XPS 13 512GB Red,6744424.45,43
+Electronics,OnePlus Nord CE4 128GB Red,6739095.0,44
+Electronics,XPS 13 64GB Red,6704134.8,45
+Electronics,Inspiron 15 128GB Red,6650134.3,46
+Electronics,Victus Laptop 128GB Silver,6621287.05,47
+Electronics,OnePlus Nord CE4 256GB Silver,6613501.0,48
+Electronics,Galaxy S24 64GB Green,6611469.3,49
+Electronics,Victus Laptop 128GB Green,6597281.6,50
+Electronics,Inspiron 15 256GB Blue,6591609.0,51
+Electronics,iPhone 15 128GB Silver,6566424.7,52
+Electronics,iPhone 15 Plus 256GB Blue,6539016.0,53
+Electronics,iPhone 15 Plus 512GB Black,6471510.1,54
+Electronics,Apple Watch Series 10 128GB Black,6471005.8,55
+Electronics,WH-1000XM5 64GB Green,6423034.45,56
+Electronics,OnePlus Nord CE4 64GB Silver,6367050.4,57
+Electronics,Airdopes 141 256GB Silver,6362421.0,58
+Electronics,PlayStation Controller 512GB Green,6361604.6,59
+Electronics,Airdopes 141 64GB Red,6351797.1,60
+Electronics,Victus Laptop 128GB Red,6165966.95,61
+Electronics,Stone Speaker 512GB Silver,6161215.95,62
+Electronics,Samsung Smart TV 512GB Red,6159809.6,63
+Electronics,Pavilion 15 256GB Blue,6122046.0,64
+Electronics,Galaxy Tab S9 256GB Silver,6062456.4,65
+Electronics,Galaxy S24 64GB White,6036659.2,66
+Electronics,PlayStation Controller 128GB Green,5993301.6,67
+Electronics,iPhone 15 Plus 64GB White,5955995.7,68
+Electronics,Stone Speaker 64GB Red,5954293.8,69
+Electronics,iPhone 15 Plus 256GB Red,5933624.0,70
+Electronics,Airdopes 141 512GB Silver,5854889.9,71
+Electronics,iPhone 15 Plus 128GB Red,5844969.35,72
+Electronics,Inspiron 15 64GB Silver,5838737.55,73
+Electronics,Apple Watch Series 10 256GB Red,5800917.6,74
+Electronics,PlayStation Controller 64GB Black,5778265.6,75
+Electronics,PlayStation Controller 256GB White,5753264.0,76
+Electronics,PlayStation Controller 512GB Red,5751012.4,77
+Electronics,Apple Watch Series 10 256GB Blue,5703404.8,78
+Electronics,iPhone 15 128GB Red,5695852.8,79
+Electronics,Victus Laptop 64GB Red,5648187.95,80
+Electronics,OnePlus 13 128GB Green,5635429.6,81
+Electronics,Galaxy S24 256GB Silver,5628788.0,82
+Electronics,iPhone 15 64GB Silver,5609267.4,83
+Electronics,Inspiron 15 512GB Red,5599504.0,84
+Electronics,Airdopes 141 64GB Blue,5584577.6,85
+Electronics,Victus Laptop 256GB Silver,5583606.6,86
+Electronics,OnePlus Nord CE4 256GB Green,5573302.2,87
+Electronics,Pavilion 15 256GB Red,5552280.0,88
+Electronics,Inspiron 15 512GB Silver,5514740.4,89
+Electronics,Pavilion 15 128GB Blue,5499151.2,90
+Electronics,Galaxy S24 256GB Red,5485388.0,91
+Electronics,Stone Speaker 64GB Green,5472741.25,92
+Electronics,WH-1000XM5 64GB Red,5416593.9,93
+Electronics,Pavilion 15 512GB Silver,5405914.15,94
+Electronics,XPS 13 128GB Silver,5401242.0,95
+Electronics,Victus Laptop 512GB Silver,5399985.85,96
+Electronics,PlayStation Controller 512GB White,5377970.2,97
+Electronics,iPhone 15 Plus 64GB Blue,5321230.85,98
+Electronics,iPhone 15 64GB Black,5320220.0,99
+Electronics,Airdopes 141 128GB Blue,5305837.2,100
+Electronics,Airdopes 141 128GB Silver,5291712.4,101
+Electronics,Apple Watch Series 10 128GB White,5273522.55,102
+Electronics,Apple Watch Series 10 64GB Silver,5267856.3,103
+Electronics,Samsung Smart TV 512GB Silver,5256156.6,104
+Electronics,Galaxy Tab S9 256GB Blue,5244791.5,105
+Electronics,Galaxy S24 512GB Green,5196986.15,106
+Electronics,Pavilion 15 256GB Silver,5182547.2,107
+Electronics,OnePlus 13 64GB Green,5179020.0,108
+Electronics,OnePlus 13 512GB Silver,5164727.7,109
+Electronics,PlayStation Controller 128GB Black,5123672.05,110
+Electronics,OnePlus 13 256GB White,5074200.3,111
+Electronics,WH-1000XM5 256GB White,5052280.5,112
+Electronics,OnePlus 13 64GB Black,5005026.0,113
+Electronics,iPhone 15 Plus 128GB Blue,4975008.0,114
+Electronics,Apple Watch Series 10 256GB White,4967932.0,115
+Electronics,Galaxy S24 512GB Red,4957224.8,116
+Electronics,Victus Laptop 64GB Silver,4953660.4,117
+Electronics,Victus Laptop 512GB Green,4906677.6,118
+Electronics,PlayStation Controller 64GB Red,4891483.5,119
+Electronics,Samsung Smart TV 128GB Red,4862372.4,120
+Electronics,iPhone 15 256GB White,4855020.5,121
+Electronics,Stone Speaker 256GB White,4806385.2,122
+Electronics,Airdopes 141 64GB White,4798282.05,123
+Electronics,iPhone 15 128GB Green,4777518.8,124
+Electronics,OnePlus 13 128GB White,4769395.0,125
+Electronics,Apple Watch Series 10 512GB Red,4760851.5,126
+Electronics,Airdopes 141 128GB Green,4748581.2,127
+Electronics,Samsung Smart TV 64GB Silver,4737465.7,128
+Electronics,Samsung Smart TV 64GB Black,4724160.0,129
+Electronics,PlayStation Controller 64GB Silver,4702907.2,130
+Electronics,Galaxy Tab S9 256GB Green,4693642.2,131
+Electronics,Apple Watch Series 10 128GB Red,4674688.6,132
+Electronics,iPhone 15 Plus 256GB Green,4635456.0,133
+Electronics,iPhone 15 512GB Blue,4593719.8,134
+Electronics,PlayStation Controller 64GB Green,4582202.3,135
+Electronics,OnePlus 13 256GB Red,4565101.4,136
+Electronics,Victus Laptop 64GB Green,4544843.85,137
+Electronics,XPS 13 512GB Green,4528450.0,138
+Electronics,OnePlus 13 512GB Green,4521216.05,139
+Electronics,WH-1000XM5 512GB Black,4466314.8,140
+Electronics,Galaxy S24 128GB Black,4463946.8,141
+Electronics,XPS 13 64GB Green,4457684.7,142
+Electronics,WH-1000XM5 256GB Black,4432221.6,143
+Electronics,Galaxy S24 128GB Red,4423092.3,144
+Electronics,OnePlus 13 512GB White,4421187.0,145
+Electronics,Victus Laptop 256GB Red,4401813.0,146
+Electronics,Pavilion 15 256GB Green,4392935.6,147
+Electronics,Airdopes 141 64GB Green,4392693.2,148
+Electronics,Victus Laptop 128GB White,4376320.4,149
+Electronics,Pavilion 15 64GB Blue,4367198.1,150
+Electronics,Samsung Smart TV 64GB White,4322983.2,151
+Electronics,OnePlus 13 128GB Blue,4322793.15,152
+Electronics,Apple Watch Series 10 256GB Black,4302841.65,153
+Electronics,Samsung Smart TV 128GB Silver,4290508.5,154
+Electronics,XPS 13 256GB Green,4238911.7,155
+Electronics,Pavilion 15 512GB Black,4220120.8,156
+Electronics,iPhone 15 Plus 64GB Black,4214364.75,157
+Electronics,Stone Speaker 512GB White,4197722.5,158
+Electronics,Stone Speaker 512GB Black,4188013.2,159
+Electronics,Airdopes 141 128GB White,4171000.05,160
+Electronics,iPhone 15 256GB Black,4154352.3,161
+Electronics,WH-1000XM5 512GB White,4144257.45,162
+Electronics,XPS 13 128GB White,4142451.6,163
+Electronics,PlayStation Controller 256GB Blue,4137632.0,164
+Electronics,Pavilion 15 64GB Silver,4112844.4,165
+Electronics,Stone Speaker 64GB Blue,4095491.4,166
+Electronics,Inspiron 15 64GB Black,4053313.0,167
+Electronics,OnePlus Nord CE4 512GB Silver,4019143.7,168
+Electronics,Pavilion 15 64GB Red,4006512.9,169
+Electronics,XPS 13 256GB Black,3991554.75,170
+Electronics,XPS 13 64GB Silver,3981052.35,171
+Electronics,Galaxy Tab S9 512GB Red,3954852.3,172
+Electronics,WH-1000XM5 256GB Silver,3918731.05,173
+Electronics,WH-1000XM5 64GB Black,3912283.8,174
+Electronics,Galaxy S24 512GB Silver,3892141.0,175
+Electronics,Stone Speaker 256GB Blue,3836340.4,176
+Electronics,OnePlus 13 512GB Red,3762146.8,177
+Electronics,Stone Speaker 64GB Silver,3729073.0,178
+Electronics,Stone Speaker 128GB Green,3728874.0,179
+Electronics,Galaxy S24 128GB White,3665331.0,180
+Electronics,Airdopes 141 64GB Silver,3658385.25,181
+Electronics,WH-1000XM5 64GB White,3645879.6,182
+Electronics,Apple Watch Series 10 64GB White,3632587.2,183
+Electronics,Pavilion 15 64GB White,3631870.2,184
+Electronics,Victus Laptop 128GB Black,3626760.0,185
+Electronics,Samsung Smart TV 128GB Blue,3592485.0,186
+Electronics,PlayStation Controller 128GB Red,3560144.5,187
+Electronics,Inspiron 15 512GB Black,3508486.9,188
+Electronics,WH-1000XM5 256GB Green,3491505.0,189
+Electronics,Airdopes 141 512GB Red,3468988.5,190
+Electronics,XPS 13 512GB White,3417055.2,191
+Electronics,Inspiron 15 128GB Silver,3416028.0,192
+Electronics,iPhone 15 256GB Red,3414824.0,193
+Electronics,OnePlus 13 128GB Silver,3406719.75,194
+Electronics,iPhone 15 Plus 128GB Green,3402048.3,195
+Electronics,Airdopes 141 128GB Red,3382661.7,196
+Electronics,WH-1000XM5 128GB Black,3382265.0,197
+Electronics,OnePlus Nord CE4 256GB Black,3378799.5,198
+Electronics,Inspiron 15 512GB Blue,3372329.0,199
+Electronics,Samsung Smart TV 256GB Blue,3346010.6,200
+Electronics,OnePlus Nord CE4 64GB Green,3336184.5,201
+Electronics,iPhone 15 Plus 128GB Black,3302211.0,202
+Electronics,Pavilion 15 256GB White,3276241.2,203
+Electronics,Galaxy Tab S9 512GB Black,3227243.25,204
+Electronics,OnePlus Nord CE4 128GB White,3222568.3,205
+Electronics,Victus Laptop 128GB Blue,3213782.8,206
+Electronics,Inspiron 15 512GB Green,3203252.2,207
+Electronics,Victus Laptop 512GB Red,3167481.6,208
+Electronics,Galaxy Tab S9 256GB White,3166667.5,209
+Electronics,Inspiron 15 64GB Red,3155294.25,210
+Electronics,Stone Speaker 128GB Blue,3144934.0,211
+Electronics,iPhone 15 256GB Silver,3142837.8,212
+Electronics,Galaxy Tab S9 128GB Red,3126969.0,213
+Electronics,iPhone 15 512GB White,3120769.25,214
+Electronics,iPhone 15 256GB Green,3118807.2,215
+Electronics,Inspiron 15 64GB Green,3117937.6,216
+Electronics,Samsung Smart TV 64GB Blue,3098049.05,217
+Electronics,Airdopes 141 512GB Green,3095500.2,218
+Electronics,Samsung Smart TV 256GB White,3095192.0,219
+Electronics,Inspiron 15 256GB Red,3084973.45,220
+Electronics,OnePlus Nord CE4 128GB Silver,3081160.5,221
+Electronics,Pavilion 15 128GB Silver,3041448.75,222
+Electronics,iPhone 15 Plus 512GB White,2995119.2,223
+Electronics,PlayStation Controller 512GB Black,2993938.95,224
+Electronics,PlayStation Controller 256GB Silver,2976077.65,225
+Electronics,OnePlus 13 512GB Blue,2949360.6,226
+Electronics,iPhone 15 Plus 512GB Silver,2947038.85,227
+Electronics,PlayStation Controller 256GB Black,2849240.8,228
+Electronics,Stone Speaker 128GB Silver,2810977.0,229
+Electronics,Victus Laptop 256GB Black,2805709.2,230
+Electronics,Apple Watch Series 10 512GB Blue,2795889.0,231
+Electronics,Inspiron 15 64GB White,2789630.9,232
+Electronics,XPS 13 64GB White,2779307.0,233
+Electronics,Victus Laptop 512GB Black,2778746.0,234
+Electronics,Pavilion 15 512GB Red,2733855.3,235
+Electronics,PlayStation Controller 128GB Blue,2733512.25,236
+Electronics,iPhone 15 128GB Blue,2731204.75,237
+Electronics,XPS 13 128GB Blue,2728260.6,238
+Electronics,OnePlus 13 64GB Red,2726365.4,239
+Electronics,Apple Watch Series 10 512GB Black,2711969.55,240
+Electronics,Pavilion 15 128GB Green,2682145.0,241
+Electronics,WH-1000XM5 256GB Blue,2679034.75,242
+Electronics,WH-1000XM5 512GB Green,2674926.0,243
+Electronics,Inspiron 15 128GB Blue,2673198.0,244
+Electronics,Stone Speaker 64GB White,2640394.5,245
+Electronics,PlayStation Controller 256GB Red,2638758.15,246
+Electronics,Apple Watch Series 10 64GB Green,2616248.4,247
+Electronics,iPhone 15 64GB Blue,2598267.6,248
+Electronics,Galaxy Tab S9 128GB Green,2588384.0,249
+Electronics,Samsung Smart TV 256GB Green,2574025.5,250
+Electronics,Galaxy Tab S9 512GB Green,2557098.45,251
+Electronics,Victus Laptop 256GB Blue,2543509.5,252
+Electronics,OnePlus 13 512GB Black,2530926.0,253
+Electronics,OnePlus 13 128GB Red,2500286.8,254
+Electronics,Airdopes 141 64GB Black,2467072.5,255
+Electronics,Apple Watch Series 10 512GB Silver,2456104.5,256
+Electronics,Pavilion 15 128GB White,2428192.2,257
+Electronics,Galaxy Tab S9 128GB Black,2414928.15,258
+Electronics,WH-1000XM5 512GB Silver,2399167.8,259
+Electronics,iPhone 15 64GB Red,2387000.85,260
+Electronics,Airdopes 141 512GB Blue,2384338.95,261
+Electronics,XPS 13 512GB Black,2367433.7,262
+Electronics,Inspiron 15 128GB Black,2339116.8,263
+Electronics,XPS 13 256GB Silver,2334941.35,264
+Electronics,Galaxy Tab S9 64GB Black,2317929.6,265
+Electronics,Samsung Smart TV 512GB Green,2315560.5,266
+Electronics,OnePlus 13 64GB White,2310103.4,267
+Electronics,Inspiron 15 512GB White,2293687.35,268
+Electronics,Galaxy S24 256GB Green,2292638.4,269
+Electronics,Samsung Smart TV 128GB White,2226285.0,270
+Electronics,Samsung Smart TV 64GB Red,2225225.1,271
+Electronics,iPhone 15 Plus 512GB Blue,2219055.3,272
+Electronics,XPS 13 512GB Blue,2213593.2,273
+Electronics,iPhone 15 Plus 128GB White,2212441.6,274
+Electronics,PlayStation Controller 512GB Blue,2209057.5,275
+Electronics,WH-1000XM5 512GB Blue,2195890.0,276
+Electronics,Inspiron 15 256GB White,2168318.4,277
+Electronics,Galaxy Tab S9 512GB Silver,2151560.2,278
+Electronics,Apple Watch Series 10 64GB Black,2146087.65,279
+Electronics,Galaxy S24 512GB Blue,2116029.0,280
+Electronics,Apple Watch Series 10 128GB Blue,2102682.95,281
+Electronics,Apple Watch Series 10 512GB Green,2038363.2,282
+Electronics,Galaxy S24 512GB White,2019216.0,283
+Electronics,WH-1000XM5 128GB Red,2013151.5,284
+Electronics,Inspiron 15 256GB Silver,1996455.05,285
+Electronics,iPhone 15 Plus 512GB Red,1980957.9,286
+Electronics,iPhone 15 Plus 256GB Silver,1965857.15,287
+Electronics,Inspiron 15 64GB Blue,1920977.1,288
+Electronics,Airdopes 141 512GB White,1919642.65,289
+Electronics,OnePlus 13 256GB Green,1919025.8,290
+Electronics,XPS 13 512GB Silver,1914091.5,291
+Electronics,Stone Speaker 256GB Silver,1912397.5,292
+Electronics,iPhone 15 Plus 128GB Silver,1906328.25,293
+Electronics,WH-1000XM5 512GB Red,1862625.0,294
+Electronics,Samsung Smart TV 128GB Green,1859204.15,295
+Electronics,Apple Watch Series 10 64GB Blue,1858085.9,296
+Electronics,Samsung Smart TV 256GB Silver,1855559.25,297
+Electronics,OnePlus Nord CE4 64GB Blue,1854254.6,298
+Electronics,Stone Speaker 64GB Black,1833143.15,299
+Electronics,OnePlus Nord CE4 512GB White,1806870.4,300
+Electronics,Victus Laptop 256GB Green,1801165.2,301
+Electronics,OnePlus Nord CE4 256GB Blue,1771962.3,302
+Electronics,OnePlus Nord CE4 128GB Green,1765649.25,303
+Electronics,OnePlus Nord CE4 256GB Red,1755733.5,304
+Electronics,PlayStation Controller 256GB Green,1748444.1,305
+Electronics,WH-1000XM5 128GB Blue,1737697.6,306
+Electronics,OnePlus Nord CE4 512GB Black,1674631.5,307
+Electronics,Pavilion 15 512GB White,1654005.0,308
+Electronics,Apple Watch Series 10 128GB Green,1648068.4,309
+Electronics,Pavilion 15 128GB Black,1561120.4,310
+Electronics,Galaxy Tab S9 256GB Black,1527050.9,311
+Electronics,iPhone 15 Plus 512GB Green,1519716.25,312
+Electronics,Airdopes 141 256GB Blue,1479512.0,313
+Electronics,Galaxy S24 64GB Red,1448604.0,314
+Electronics,OnePlus 13 64GB Silver,1441134.6,315
+Electronics,Victus Laptop 64GB White,1436428.75,316
+Electronics,Inspiron 15 128GB Green,1434101.6,317
+Electronics,Apple Watch Series 10 512GB White,1407798.7,318
+Electronics,iPhone 15 128GB White,1404438.0,319
+Electronics,Victus Laptop 64GB Black,1328625.2,320
+Electronics,Apple Watch Series 10 256GB Green,1319435.7,321
+Electronics,Galaxy Tab S9 256GB Red,1315650.8,322
+Electronics,Stone Speaker 256GB Green,1296673.6,323
+Electronics,WH-1000XM5 256GB Red,1287807.6,324
+Electronics,Apple Watch Series 10 64GB Red,1280993.1,325
+Electronics,Airdopes 141 512GB Black,1247507.3,326
+Electronics,Airdopes 141 256GB White,1240680.0,327
+Electronics,Galaxy S24 64GB Black,1240676.6,328
+Electronics,Pavilion 15 512GB Blue,1234481.0,329
+Electronics,OnePlus Nord CE4 64GB Red,1224723.5,330
+Electronics,Airdopes 141 256GB Green,1215780.5,331
+Electronics,Victus Laptop 512GB White,1203830.2,332
+Electronics,Galaxy S24 256GB Blue,1195850.1,333
+Electronics,XPS 13 64GB Black,1163168.1,334
+Electronics,PlayStation Controller 128GB White,1137099.6,335
+Electronics,Galaxy S24 128GB Blue,1133849.1,336
+Electronics,OnePlus 13 256GB Silver,1104510.4,337
+Electronics,Stone Speaker 512GB Red,1085669.2,338
+Electronics,Pavilion 15 128GB Red,1067288.0,339
+Electronics,Victus Laptop 256GB White,1054446.25,340
+Electronics,XPS 13 128GB Black,1001968.8,341
+Electronics,Victus Laptop 512GB Blue,1000128.0,342
+Electronics,OnePlus 13 256GB Blue,965521.2,343
+Electronics,iPhone 15 Plus 64GB Silver,958755.0,344
+Electronics,Samsung Smart TV 512GB White,938966.0,345
+Electronics,WH-1000XM5 64GB Blue,902908.4,346
+Electronics,Samsung Smart TV 512GB Black,863567.75,347
+Electronics,Galaxy S24 64GB Silver,858596.7,348
+Electronics,Stone Speaker 512GB Blue,851025.15,349
+Electronics,Galaxy Tab S9 64GB White,848506.8,350
+Electronics,Galaxy Tab S9 128GB Blue,838059.75,351
+Electronics,Galaxy S24 128GB Silver,833544.8,352
+Electronics,XPS 13 64GB Blue,797842.5,353
+Electronics,Galaxy S24 256GB Black,763140.2,354
+Electronics,PlayStation Controller 64GB Blue,754919.1,355
+Electronics,iPhone 15 512GB Black,752864.4,356
+Electronics,Pavilion 15 512GB Green,752641.4,357
+Electronics,OnePlus Nord CE4 512GB Green,732113.7,358
+Electronics,Samsung Smart TV 512GB Blue,719968.2,359
+Electronics,Galaxy Tab S9 512GB Blue,701549.2,360
+Electronics,Galaxy Tab S9 512GB White,698880.0,361
+Electronics,XPS 13 256GB White,627810.2,362
+Electronics,Apple Watch Series 10 128GB Silver,611898.75,363
+Electronics,iPhone 15 64GB White,609872.9,364
+Electronics,Galaxy Tab S9 128GB White,590290.5,365
+Electronics,OnePlus Nord CE4 512GB Blue,583133.5,366
+Electronics,Galaxy S24 256GB White,582888.15,367
+Electronics,iPhone 15 128GB Black,526491.0,368
+Electronics,iPhone 15 512GB Silver,521336.25,369
+Electronics,Inspiron 15 256GB Black,512583.75,370
+Electronics,Galaxy Tab S9 64GB Blue,442638.85,371
+Electronics,Samsung Smart TV 64GB Green,441856.0,372
+Electronics,Stone Speaker 128GB White,415892.85,373
+Electronics,Samsung Smart TV 128GB Black,353273.2,374
+Electronics,Pavilion 15 256GB Black,353147.9,375
+Electronics,Inspiron 15 128GB White,345580.8,376
+Electronics,Airdopes 141 256GB Red,324569.1,377
+Electronics,WH-1000XM5 64GB Silver,263558.9,378
+Electronics,OnePlus Nord CE4 64GB Black,252285.0,379
+Electronics,Galaxy Tab S9 64GB Silver,247863.5,380
+Electronics,iPhone 15 256GB Blue,233069.25,381
+Electronics,OnePlus Nord CE4 256GB White,190220.8,382
+Electronics,Samsung Smart TV 256GB Black,161337.4,383
+Electronics,Pavilion 15 64GB Black,148842.5,384
+Fashion,Sneakers Size-7,1287885.25,1
+Fashion,Sneakers Size-10,953017.2,2
+Fashion,Denim Jacket L,709214.8,3
+Fashion,Jeans XL,593823.6,4
+Fashion,Sports T-Shirt S,503370.0,5
+Fashion,Analog Watch M,490530.6,6
+Fashion,Track Pants S,484684.75,7
+Fashion,Sports T-Shirt XL,474877.75,8
+Fashion,Denim Jacket M,472484.0,9
+Fashion,Jeans S,468470.9,10
+Fashion,Denim Jacket XL,446264.4,11
+Fashion,Sneakers Size-8,378551.7,12
+Fashion,Jeans M,341892.8,13
+Fashion,Running Shoes Size-9,336441.6,14
+Fashion,Track Pants M,317753.8,15
+Fashion,Sneakers Size-9,298621.5,16
+Fashion,Hoodie M,285541.0,17
+Fashion,Analog Watch S,263066.4,18
+Fashion,Running Shoes Size-8,260706.6,19
+Fashion,Running Shoes Size-10,253704.0,20
+Fashion,Track Pants XL,238438.8,21
+Fashion,Denim Jacket S,215321.75,22
+Fashion,Jeans L,195366.1,23
+Fashion,Analog Watch XL,194914.6,24
+Fashion,Formal Shirt S,188690.25,25
+Fashion,Formal Shirt L,188261.7,26
+Fashion,Analog Watch L,181033.75,27
+Fashion,Hoodie XL,166535.2,28
+Fashion,Formal Shirt M,154221.1,29
+Fashion,Track Pants L,151755.0,30
+Fashion,Formal Shirt XL,150668.1,31
+Fashion,Sports T-Shirt M,99225.6,32
+Fashion,Hoodie S,96723.3,33
+Fashion,Running Shoes Size-7,85068.9,34
+Fashion,Sports T-Shirt L,83058.0,35
+Fashion,Hoodie L,75318.6,36
+Home & Kitchen,Gas Stove,1722123.0,1
+Home & Kitchen,Water Purifier,1696464.0,2
+Home & Kitchen,Pressure Cooker,1609699.0,3
+Home & Kitchen,Water Bottle,1405321.3,4
+Home & Kitchen,Microwave Oven,851665.5,5
+Home & Kitchen,Steam Iron,806943.4,6
+Home & Kitchen,Cookware Set,566801.8,7
+Home & Kitchen,Mixer Grinder,158183.2,8

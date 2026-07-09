@@ -1,0 +1,444 @@
+product_id,brand,category,product_name,price,stock
+PROD00001,Apple,Electronics,iPhone 15 64GB Black,85810,77
+PROD00002,Apple,Electronics,iPhone 15 64GB White,5278,160
+PROD00003,Apple,Electronics,iPhone 15 64GB Blue,34098,134
+PROD00004,Apple,Electronics,iPhone 15 64GB Red,20289,72
+PROD00005,Apple,Electronics,iPhone 15 64GB Silver,73482,64
+PROD00006,Apple,Electronics,iPhone 15 64GB Green,79397,236
+PROD00007,Apple,Electronics,iPhone 15 128GB Black,6165,35
+PROD00008,Apple,Electronics,iPhone 15 128GB White,14280,131
+PROD00009,Apple,Electronics,iPhone 15 128GB Blue,32495,278
+PROD00010,Apple,Electronics,iPhone 15 128GB Red,80907,33
+PROD00011,Apple,Electronics,iPhone 15 128GB Silver,75563,121
+PROD00012,Apple,Electronics,iPhone 15 128GB Green,87181,299
+PROD00013,Apple,Electronics,iPhone 15 256GB Black,56987,132
+PROD00014,Apple,Electronics,iPhone 15 256GB White,60878,162
+PROD00015,Apple,Electronics,iPhone 15 256GB Blue,2851,101
+PROD00016,Apple,Electronics,iPhone 15 256GB Red,57392,194
+PROD00017,Apple,Electronics,iPhone 15 256GB Silver,38421,99
+PROD00018,Apple,Electronics,iPhone 15 256GB Green,30221,192
+PROD00019,Apple,Electronics,iPhone 15 512GB Black,15396,67
+PROD00020,Apple,Electronics,iPhone 15 512GB White,51797,69
+PROD00021,Apple,Electronics,iPhone 15 512GB Blue,49052,196
+PROD00022,Apple,Electronics,iPhone 15 512GB Red,81131,155
+PROD00023,Apple,Electronics,iPhone 15 512GB Silver,7695,255
+PROD00024,Apple,Electronics,iPhone 15 512GB Green,72284,83
+PROD00025,Apple,Electronics,iPhone 15 Plus 64GB Black,51615,60
+PROD00026,Apple,Electronics,iPhone 15 Plus 64GB White,74357,170
+PROD00027,Apple,Electronics,iPhone 15 Plus 64GB Blue,84397,205
+PROD00028,Apple,Electronics,iPhone 15 Plus 64GB Red,77674,118
+PROD00029,Apple,Electronics,iPhone 15 Plus 64GB Silver,11116,43
+PROD00030,Apple,Electronics,iPhone 15 Plus 64GB Green,88673,136
+PROD00031,Apple,Electronics,iPhone 15 Plus 128GB Black,39930,60
+PROD00032,Apple,Electronics,iPhone 15 Plus 128GB White,32512,71
+PROD00033,Apple,Electronics,iPhone 15 Plus 128GB Blue,51823,162
+PROD00034,Apple,Electronics,iPhone 15 Plus 128GB Red,61429,206
+PROD00035,Apple,Electronics,iPhone 15 Plus 128GB Silver,23319,209
+PROD00036,Apple,Electronics,iPhone 15 Plus 128GB Green,48566,127
+PROD00037,Apple,Electronics,iPhone 15 Plus 256GB Black,89841,156
+PROD00038,Apple,Electronics,iPhone 15 Plus 256GB White,86939,56
+PROD00039,Apple,Electronics,iPhone 15 Plus 256GB Blue,81840,107
+PROD00040,Apple,Electronics,iPhone 15 Plus 256GB Red,72010,145
+PROD00041,Apple,Electronics,iPhone 15 Plus 256GB Silver,23417,256
+PROD00042,Apple,Electronics,iPhone 15 Plus 256GB Green,51735,158
+PROD00043,Apple,Electronics,iPhone 15 Plus 512GB Black,85886,132
+PROD00044,Apple,Electronics,iPhone 15 Plus 512GB White,44504,48
+PROD00045,Apple,Electronics,iPhone 15 Plus 512GB Blue,32021,36
+PROD00046,Apple,Electronics,iPhone 15 Plus 512GB Red,43347,225
+PROD00047,Apple,Electronics,iPhone 15 Plus 512GB Silver,37093,53
+PROD00048,Apple,Electronics,iPhone 15 Plus 512GB Green,29653,181
+PROD00049,Apple,Electronics,Apple Watch Series 10 64GB Black,29869,275
+PROD00050,Apple,Electronics,Apple Watch Series 10 64GB White,53856,254
+PROD00051,Apple,Electronics,Apple Watch Series 10 64GB Blue,20726,155
+PROD00052,Apple,Electronics,Apple Watch Series 10 64GB Red,20301,146
+PROD00053,Apple,Electronics,Apple Watch Series 10 64GB Silver,75579,295
+PROD00054,Apple,Electronics,Apple Watch Series 10 64GB Green,36438,239
+PROD00055,Apple,Electronics,Apple Watch Series 10 128GB Black,78484,224
+PROD00056,Apple,Electronics,Apple Watch Series 10 128GB White,49447,132
+PROD00057,Apple,Electronics,Apple Watch Series 10 128GB Blue,20131,280
+PROD00058,Apple,Electronics,Apple Watch Series 10 128GB Red,66686,66
+PROD00059,Apple,Electronics,Apple Watch Series 10 128GB Silver,8175,76
+PROD00060,Apple,Electronics,Apple Watch Series 10 128GB Green,22033,101
+PROD00061,Apple,Electronics,Apple Watch Series 10 256GB Black,57333,52
+PROD00062,Apple,Electronics,Apple Watch Series 10 256GB White,52432,215
+PROD00063,Apple,Electronics,Apple Watch Series 10 256GB Blue,80104,259
+PROD00064,Apple,Electronics,Apple Watch Series 10 256GB Red,71352,148
+PROD00065,Apple,Electronics,Apple Watch Series 10 256GB Silver,74512,25
+PROD00066,Apple,Electronics,Apple Watch Series 10 256GB Green,17014,294
+PROD00067,Apple,Electronics,Apple Watch Series 10 512GB Black,36973,194
+PROD00068,Apple,Electronics,Apple Watch Series 10 512GB White,16621,170
+PROD00069,Apple,Electronics,Apple Watch Series 10 512GB Blue,58985,100
+PROD00070,Apple,Electronics,Apple Watch Series 10 512GB Red,61470,21
+PROD00071,Apple,Electronics,Apple Watch Series 10 512GB Silver,36522,276
+PROD00072,Apple,Electronics,Apple Watch Series 10 512GB Green,25416,279
+PROD00073,Samsung,Electronics,Galaxy S24 64GB Black,15947,172
+PROD00074,Samsung,Electronics,Galaxy S24 64GB White,85748,279
+PROD00075,Samsung,Electronics,Galaxy S24 64GB Blue,81818,121
+PROD00076,Samsung,Electronics,Galaxy S24 64GB Red,22032,211
+PROD00077,Samsung,Electronics,Galaxy S24 64GB Silver,23174,296
+PROD00078,Samsung,Electronics,Galaxy S24 64GB Green,71514,20
+PROD00079,Samsung,Electronics,Galaxy S24 128GB Black,80504,185
+PROD00080,Samsung,Electronics,Galaxy S24 128GB White,66042,29
+PROD00081,Samsung,Electronics,Galaxy S24 128GB Blue,16662,205
+PROD00082,Samsung,Electronics,Galaxy S24 128GB Red,42306,142
+PROD00083,Samsung,Electronics,Galaxy S24 128GB Silver,9592,143
+PROD00084,Samsung,Electronics,Galaxy S24 128GB Green,76364,60
+PROD00085,Samsung,Electronics,Galaxy S24 256GB Black,13226,268
+PROD00086,Samsung,Electronics,Galaxy S24 256GB White,11071,292
+PROD00087,Samsung,Electronics,Galaxy S24 256GB Blue,18483,85
+PROD00088,Samsung,Electronics,Galaxy S24 256GB Red,88474,263
+PROD00089,Samsung,Electronics,Galaxy S24 256GB Silver,74063,104
+PROD00090,Samsung,Electronics,Galaxy S24 256GB Green,36741,290
+PROD00091,Samsung,Electronics,Galaxy S24 512GB Black,81507,236
+PROD00092,Samsung,Electronics,Galaxy S24 512GB White,29760,296
+PROD00093,Samsung,Electronics,Galaxy S24 512GB Blue,28365,179
+PROD00094,Samsung,Electronics,Galaxy S24 512GB Red,54296,211
+PROD00095,Samsung,Electronics,Galaxy S24 512GB Silver,59422,284
+PROD00096,Samsung,Electronics,Galaxy S24 512GB Green,61177,81
+PROD00097,Samsung,Electronics,Galaxy Tab S9 64GB Black,34493,135
+PROD00098,Samsung,Electronics,Galaxy Tab S9 64GB White,10392,193
+PROD00099,Samsung,Electronics,Galaxy Tab S9 64GB Blue,4757,137
+PROD00100,Samsung,Electronics,Galaxy Tab S9 64GB Red,79128,132
+PROD00101,Samsung,Electronics,Galaxy Tab S9 64GB Silver,2942,56
+PROD00102,Samsung,Electronics,Galaxy Tab S9 64GB Green,84719,50
+PROD00103,Samsung,Electronics,Galaxy Tab S9 128GB Black,32007,54
+PROD00104,Samsung,Electronics,Galaxy Tab S9 128GB White,6117,189
+PROD00105,Samsung,Electronics,Galaxy Tab S9 128GB Blue,11287,283
+PROD00106,Samsung,Electronics,Galaxy Tab S9 128GB Red,33195,162
+PROD00107,Samsung,Electronics,Galaxy Tab S9 128GB Silver,89684,268
+PROD00108,Samsung,Electronics,Galaxy Tab S9 128GB Green,30080,296
+PROD00109,Samsung,Electronics,Galaxy Tab S9 256GB Black,19342,262
+PROD00110,Samsung,Electronics,Galaxy Tab S9 256GB White,33850,262
+PROD00111,Samsung,Electronics,Galaxy Tab S9 256GB Blue,55354,117
+PROD00112,Samsung,Electronics,Galaxy Tab S9 256GB Red,14363,69
+PROD00113,Samsung,Electronics,Galaxy Tab S9 256GB Silver,88374,240
+PROD00114,Samsung,Electronics,Galaxy Tab S9 256GB Green,48438,236
+PROD00115,Samsung,Electronics,Galaxy Tab S9 512GB Black,55883,259
+PROD00116,Samsung,Electronics,Galaxy Tab S9 512GB White,9100,70
+PROD00117,Samsung,Electronics,Galaxy Tab S9 512GB Blue,9944,226
+PROD00118,Samsung,Electronics,Galaxy Tab S9 512GB Red,46473,75
+PROD00119,Samsung,Electronics,Galaxy Tab S9 512GB Silver,34591,118
+PROD00120,Samsung,Electronics,Galaxy Tab S9 512GB Green,26931,294
+PROD00121,Samsung,Electronics,Samsung Smart TV 64GB Black,60800,91
+PROD00122,Samsung,Electronics,Samsung Smart TV 64GB White,57296,113
+PROD00123,Samsung,Electronics,Samsung Smart TV 64GB Blue,38509,256
+PROD00124,Samsung,Electronics,Samsung Smart TV 64GB Red,34742,58
+PROD00125,Samsung,Electronics,Samsung Smart TV 64GB Silver,60082,70
+PROD00126,Samsung,Electronics,Samsung Smart TV 64GB Green,8630,296
+PROD00127,Samsung,Electronics,Samsung Smart TV 128GB Black,3934,67
+PROD00128,Samsung,Electronics,Samsung Smart TV 128GB White,32982,105
+PROD00129,Samsung,Electronics,Samsung Smart TV 128GB Blue,55269,268
+PROD00130,Samsung,Electronics,Samsung Smart TV 128GB Red,65092,129
+PROD00131,Samsung,Electronics,Samsung Smart TV 128GB Silver,54565,50
+PROD00132,Samsung,Electronics,Samsung Smart TV 128GB Green,23579,214
+PROD00133,Samsung,Electronics,Samsung Smart TV 256GB Black,2282,219
+PROD00134,Samsung,Electronics,Samsung Smart TV 256GB White,36760,252
+PROD00135,Samsung,Electronics,Samsung Smart TV 256GB Blue,39388,236
+PROD00136,Samsung,Electronics,Samsung Smart TV 256GB Red,74845,269
+PROD00137,Samsung,Electronics,Samsung Smart TV 256GB Silver,22289,117
+PROD00138,Samsung,Electronics,Samsung Smart TV 256GB Green,40890,131
+PROD00139,Samsung,Electronics,Samsung Smart TV 512GB Black,9665,297
+PROD00140,Samsung,Electronics,Samsung Smart TV 512GB White,9989,180
+PROD00141,Samsung,Electronics,Samsung Smart TV 512GB Blue,9492,45
+PROD00142,Samsung,Electronics,Samsung Smart TV 512GB Red,78569,264
+PROD00143,Samsung,Electronics,Samsung Smart TV 512GB Silver,67909,291
+PROD00144,Samsung,Electronics,Samsung Smart TV 512GB Green,22635,49
+PROD00145,OnePlus,Electronics,OnePlus 13 64GB Black,68562,61
+PROD00146,OnePlus,Electronics,OnePlus 13 64GB White,26356,55
+PROD00147,OnePlus,Electronics,OnePlus 13 64GB Blue,79992,54
+PROD00148,OnePlus,Electronics,OnePlus 13 64GB Red,32828,226
+PROD00149,OnePlus,Electronics,OnePlus 13 64GB Silver,17713,146
+PROD00150,OnePlus,Electronics,OnePlus 13 64GB Green,77880,40
+PROD00151,OnePlus,Electronics,OnePlus 13 128GB Black,83183,61
+PROD00152,OnePlus,Electronics,OnePlus 13 128GB White,56948,287
+PROD00153,OnePlus,Electronics,OnePlus 13 128GB Blue,43467,153
+PROD00154,OnePlus,Electronics,OnePlus 13 128GB Red,28772,180
+PROD00155,OnePlus,Electronics,OnePlus 13 128GB Silver,33285,155
+PROD00156,OnePlus,Electronics,OnePlus 13 128GB Green,53876,87
+PROD00157,OnePlus,Electronics,OnePlus 13 256GB Black,86607,173
+PROD00158,OnePlus,Electronics,OnePlus 13 256GB White,61929,181
+PROD00159,OnePlus,Electronics,OnePlus 13 256GB Blue,11508,24
+PROD00160,OnePlus,Electronics,OnePlus 13 256GB Red,62068,71
+PROD00161,OnePlus,Electronics,OnePlus 13 256GB Silver,11602,295
+PROD00162,OnePlus,Electronics,OnePlus 13 256GB Green,29938,279
+PROD00163,OnePlus,Electronics,OnePlus 13 512GB Black,36760,87
+PROD00164,OnePlus,Electronics,OnePlus 13 512GB White,47745,55
+PROD00165,OnePlus,Electronics,OnePlus 13 512GB Blue,34018,209
+PROD00166,OnePlus,Electronics,OnePlus 13 512GB Red,39353,100
+PROD00167,OnePlus,Electronics,OnePlus 13 512GB Silver,59433,298
+PROD00168,OnePlus,Electronics,OnePlus 13 512GB Green,41651,290
+PROD00169,OnePlus,Electronics,OnePlus Nord CE4 64GB Black,3025,173
+PROD00170,OnePlus,Electronics,OnePlus Nord CE4 64GB White,88951,73
+PROD00171,OnePlus,Electronics,OnePlus Nord CE4 64GB Blue,19601,155
+PROD00172,OnePlus,Electronics,OnePlus Nord CE4 64GB Red,17129,74
+PROD00173,OnePlus,Electronics,OnePlus Nord CE4 64GB Silver,74512,99
+PROD00174,OnePlus,Electronics,OnePlus Nord CE4 64GB Green,37697,164
+PROD00175,OnePlus,Electronics,OnePlus Nord CE4 128GB Black,81276,127
+PROD00176,OnePlus,Electronics,OnePlus Nord CE4 128GB White,46942,124
+PROD00177,OnePlus,Electronics,OnePlus Nord CE4 128GB Blue,85130,155
+PROD00178,OnePlus,Electronics,OnePlus Nord CE4 128GB Red,68244,270
+PROD00179,OnePlus,Electronics,OnePlus Nord CE4 128GB Silver,34914,46
+PROD00180,OnePlus,Electronics,OnePlus Nord CE4 128GB Green,14097,236
+PROD00181,OnePlus,Electronics,OnePlus Nord CE4 256GB Black,38265,42
+PROD00182,OnePlus,Electronics,OnePlus Nord CE4 256GB White,2464,190
+PROD00183,OnePlus,Electronics,OnePlus Nord CE4 256GB Blue,19146,154
+PROD00184,OnePlus,Electronics,OnePlus Nord CE4 256GB Red,23178,246
+PROD00185,OnePlus,Electronics,OnePlus Nord CE4 256GB Silver,74309,238
+PROD00186,OnePlus,Electronics,OnePlus Nord CE4 256GB Green,75519,24
+PROD00187,OnePlus,Electronics,OnePlus Nord CE4 512GB Black,16663,58
+PROD00188,OnePlus,Electronics,OnePlus Nord CE4 512GB White,21536,299
+PROD00189,OnePlus,Electronics,OnePlus Nord CE4 512GB Blue,6722,209
+PROD00190,OnePlus,Electronics,OnePlus Nord CE4 512GB Red,78350,95
+PROD00191,OnePlus,Electronics,OnePlus Nord CE4 512GB Silver,58333,85
+PROD00192,OnePlus,Electronics,OnePlus Nord CE4 512GB Green,7482,177
+PROD00193,Dell,Electronics,Inspiron 15 64GB Black,49795,40
+PROD00194,Dell,Electronics,Inspiron 15 64GB White,48898,127
+PROD00195,Dell,Electronics,Inspiron 15 64GB Blue,34706,72
+PROD00196,Dell,Electronics,Inspiron 15 64GB Red,48357,228
+PROD00197,Dell,Electronics,Inspiron 15 64GB Silver,83351,99
+PROD00198,Dell,Electronics,Inspiron 15 64GB Green,33029,103
+PROD00199,Dell,Electronics,Inspiron 15 128GB Black,25206,231
+PROD00200,Dell,Electronics,Inspiron 15 128GB White,5248,111
+PROD00201,Dell,Electronics,Inspiron 15 128GB Blue,45540,230
+PROD00202,Dell,Electronics,Inspiron 15 128GB Red,89806,147
+PROD00203,Dell,Electronics,Inspiron 15 128GB Silver,36970,101
+PROD00204,Dell,Electronics,Inspiron 15 128GB Green,16168,215
+PROD00205,Dell,Electronics,Inspiron 15 256GB Black,7075,260
+PROD00206,Dell,Electronics,Inspiron 15 256GB White,31154,122
+PROD00207,Dell,Electronics,Inspiron 15 256GB Blue,62332,199
+PROD00208,Dell,Electronics,Inspiron 15 256GB Red,42001,136
+PROD00209,Dell,Electronics,Inspiron 15 256GB Silver,31219,32
+PROD00210,Dell,Electronics,Inspiron 15 256GB Green,88511,118
+PROD00211,Dell,Electronics,Inspiron 15 512GB Black,54227,188
+PROD00212,Dell,Electronics,Inspiron 15 512GB White,38517,55
+PROD00213,Dell,Electronics,Inspiron 15 512GB Blue,38585,199
+PROD00214,Dell,Electronics,Inspiron 15 512GB Red,86080,280
+PROD00215,Dell,Electronics,Inspiron 15 512GB Silver,54386,294
+PROD00216,Dell,Electronics,Inspiron 15 512GB Green,45404,34
+PROD00217,Dell,Electronics,XPS 13 64GB Black,17118,153
+PROD00218,Dell,Electronics,XPS 13 64GB White,25405,155
+PROD00219,Dell,Electronics,XPS 13 64GB Blue,7014,75
+PROD00220,Dell,Electronics,XPS 13 64GB Red,80193,242
+PROD00221,Dell,Electronics,XPS 13 64GB Silver,47309,180
+PROD00222,Dell,Electronics,XPS 13 64GB Green,59199,281
+PROD00223,Dell,Electronics,XPS 13 128GB Black,17157,217
+PROD00224,Dell,Electronics,XPS 13 128GB White,77574,117
+PROD00225,Dell,Electronics,XPS 13 128GB Blue,35386,42
+PROD00226,Dell,Electronics,XPS 13 128GB Red,59154,20
+PROD00227,Dell,Electronics,XPS 13 128GB Silver,70146,295
+PROD00228,Dell,Electronics,XPS 13 128GB Green,89900,120
+PROD00229,Dell,Electronics,XPS 13 256GB Black,49739,240
+PROD00230,Dell,Electronics,XPS 13 256GB White,11171,189
+PROD00231,Dell,Electronics,XPS 13 256GB Blue,83678,180
+PROD00232,Dell,Electronics,XPS 13 256GB Red,88951,83
+PROD00233,Dell,Electronics,XPS 13 256GB Silver,41363,279
+PROD00234,Dell,Electronics,XPS 13 256GB Green,42538,229
+PROD00235,Dell,Electronics,XPS 13 512GB Black,44753,226
+PROD00236,Dell,Electronics,XPS 13 512GB White,40752,85
+PROD00237,Dell,Electronics,XPS 13 512GB Blue,27144,235
+PROD00238,Dell,Electronics,XPS 13 512GB Red,89153,214
+PROD00239,Dell,Electronics,XPS 13 512GB Silver,24810,174
+PROD00240,Dell,Electronics,XPS 13 512GB Green,55225,300
+PROD00241,HP,Electronics,Pavilion 15 64GB Black,2053,175
+PROD00242,HP,Electronics,Pavilion 15 64GB White,39606,127
+PROD00243,HP,Electronics,Pavilion 15 64GB Blue,58346,184
+PROD00244,HP,Electronics,Pavilion 15 64GB Red,62946,246
+PROD00245,HP,Electronics,Pavilion 15 64GB Silver,59954,129
+PROD00246,HP,Electronics,Pavilion 15 64GB Green,69000,262
+PROD00247,HP,Electronics,Pavilion 15 128GB Black,24241,63
+PROD00248,HP,Electronics,Pavilion 15 128GB White,39196,283
+PROD00249,HP,Electronics,Pavilion 15 128GB Blue,89012,191
+PROD00250,HP,Electronics,Pavilion 15 128GB Red,14240,140
+PROD00251,HP,Electronics,Pavilion 15 128GB Silver,42687,135
+PROD00252,HP,Electronics,Pavilion 15 128GB Green,28100,95
+PROD00253,HP,Electronics,Pavilion 15 256GB Black,5201,43
+PROD00254,HP,Electronics,Pavilion 15 256GB White,34092,263
+PROD00255,HP,Electronics,Pavilion 15 256GB Blue,82120,57
+PROD00256,HP,Electronics,Pavilion 15 256GB Red,61692,232
+PROD00257,HP,Electronics,Pavilion 15 256GB Silver,84544,119
+PROD00258,HP,Electronics,Pavilion 15 256GB Green,52328,273
+PROD00259,HP,Electronics,Pavilion 15 512GB Black,54383,144
+PROD00260,HP,Electronics,Pavilion 15 512GB White,21342,22
+PROD00261,HP,Electronics,Pavilion 15 512GB Blue,15970,237
+PROD00262,HP,Electronics,Pavilion 15 512GB Red,30683,110
+PROD00263,HP,Electronics,Pavilion 15 512GB Silver,69889,257
+PROD00264,HP,Electronics,Pavilion 15 512GB Green,8582,147
+PROD00265,HP,Electronics,Victus Laptop 64GB Black,17906,253
+PROD00266,HP,Electronics,Victus Laptop 64GB White,19477,257
+PROD00267,HP,Electronics,Victus Laptop 64GB Blue,89500,291
+PROD00268,HP,Electronics,Victus Laptop 64GB Red,75259,182
+PROD00269,HP,Electronics,Victus Laptop 64GB Silver,60008,278
+PROD00270,HP,Electronics,Victus Laptop 64GB Green,57933,300
+PROD00271,HP,Electronics,Victus Laptop 128GB Black,60446,101
+PROD00272,HP,Electronics,Victus Laptop 128GB White,64216,250
+PROD00273,HP,Electronics,Victus Laptop 128GB Blue,35972,146
+PROD00274,HP,Electronics,Victus Laptop 128GB Red,85579,161
+PROD00275,HP,Electronics,Victus Laptop 128GB Silver,70327,268
+PROD00276,HP,Electronics,Victus Laptop 128GB Green,84149,142
+PROD00277,HP,Electronics,Victus Laptop 256GB Black,37992,245
+PROD00278,HP,Electronics,Victus Laptop 256GB White,12155,166
+PROD00279,HP,Electronics,Victus Laptop 256GB Blue,32735,159
+PROD00280,HP,Electronics,Victus Laptop 256GB Red,46020,183
+PROD00281,HP,Electronics,Victus Laptop 256GB Silver,72798,61
+PROD00282,HP,Electronics,Victus Laptop 256GB Green,20136,97
+PROD00283,HP,Electronics,Victus Laptop 512GB Black,32311,216
+PROD00284,HP,Electronics,Victus Laptop 512GB White,22028,129
+PROD00285,HP,Electronics,Victus Laptop 512GB Blue,10418,232
+PROD00286,HP,Electronics,Victus Laptop 512GB Red,55424,189
+PROD00287,HP,Electronics,Victus Laptop 512GB Silver,73121,258
+PROD00288,HP,Electronics,Victus Laptop 512GB Green,56496,51
+PROD00289,Boat,Electronics,Airdopes 141 64GB Black,29110,235
+PROD00290,Boat,Electronics,Airdopes 141 64GB White,53049,30
+PROD00291,Boat,Electronics,Airdopes 141 64GB Blue,77456,214
+PROD00292,Boat,Electronics,Airdopes 141 64GB Red,64518,23
+PROD00293,Boat,Electronics,Airdopes 141 64GB Silver,48105,172
+PROD00294,Boat,Electronics,Airdopes 141 64GB Green,53116,234
+PROD00295,Boat,Electronics,Airdopes 141 128GB Black,72545,299
+PROD00296,Boat,Electronics,Airdopes 141 128GB White,81069,132
+PROD00297,Boat,Electronics,Airdopes 141 128GB Blue,65993,132
+PROD00298,Boat,Electronics,Airdopes 141 128GB Red,37774,243
+PROD00299,Boat,Electronics,Airdopes 141 128GB Silver,65654,34
+PROD00300,Boat,Electronics,Airdopes 141 128GB Green,52968,192
+PROD00301,Boat,Electronics,Airdopes 141 256GB Black,89670,227
+PROD00302,Boat,Electronics,Airdopes 141 256GB White,23632,259
+PROD00303,Boat,Electronics,Airdopes 141 256GB Blue,18728,293
+PROD00304,Boat,Electronics,Airdopes 141 256GB Red,5534,221
+PROD00305,Boat,Electronics,Airdopes 141 256GB Silver,79580,33
+PROD00306,Boat,Electronics,Airdopes 141 256GB Green,13003,239
+PROD00307,Boat,Electronics,Airdopes 141 512GB Black,19786,256
+PROD00308,Boat,Electronics,Airdopes 141 512GB White,25819,45
+PROD00309,Boat,Electronics,Airdopes 141 512GB Blue,36099,214
+PROD00310,Boat,Electronics,Airdopes 141 512GB Red,44906,128
+PROD00311,Boat,Electronics,Airdopes 141 512GB Silver,61598,187
+PROD00312,Boat,Electronics,Airdopes 141 512GB Green,46236,214
+PROD00313,Boat,Electronics,Stone Speaker 64GB Black,38471,235
+PROD00314,Boat,Electronics,Stone Speaker 64GB White,35065,61
+PROD00315,Boat,Electronics,Stone Speaker 64GB Blue,63644,29
+PROD00316,Boat,Electronics,Stone Speaker 64GB Red,72702,46
+PROD00317,Boat,Electronics,Stone Speaker 64GB Silver,47870,134
+PROD00318,Boat,Electronics,Stone Speaker 64GB Green,87215,55
+PROD00319,Boat,Electronics,Stone Speaker 128GB Black,87426,40
+PROD00320,Boat,Electronics,Stone Speaker 128GB White,6067,146
+PROD00321,Boat,Electronics,Stone Speaker 128GB Blue,28130,30
+PROD00322,Boat,Electronics,Stone Speaker 128GB Red,83439,98
+PROD00323,Boat,Electronics,Stone Speaker 128GB Silver,33266,84
+PROD00324,Boat,Electronics,Stone Speaker 128GB Green,64070,78
+PROD00325,Boat,Electronics,Stone Speaker 256GB Black,75920,131
+PROD00326,Boat,Electronics,Stone Speaker 256GB White,62952,151
+PROD00327,Boat,Electronics,Stone Speaker 256GB Blue,50351,105
+PROD00328,Boat,Electronics,Stone Speaker 256GB Red,81415,78
+PROD00329,Boat,Electronics,Stone Speaker 256GB Silver,23465,179
+PROD00330,Boat,Electronics,Stone Speaker 256GB Green,16168,33
+PROD00331,Boat,Electronics,Stone Speaker 512GB Black,42888,212
+PROD00332,Boat,Electronics,Stone Speaker 512GB White,53990,121
+PROD00333,Boat,Electronics,Stone Speaker 512GB Blue,11961,144
+PROD00334,Boat,Electronics,Stone Speaker 512GB Red,15356,174
+PROD00335,Boat,Electronics,Stone Speaker 512GB Silver,80697,81
+PROD00336,Boat,Electronics,Stone Speaker 512GB Green,76177,41
+PROD00337,Sony,Electronics,WH-1000XM5 64GB Black,47508,292
+PROD00338,Sony,Electronics,WH-1000XM5 64GB White,58148,209
+PROD00339,Sony,Electronics,WH-1000XM5 64GB Blue,11038,279
+PROD00340,Sony,Electronics,WH-1000XM5 64GB Red,86874,194
+PROD00341,Sony,Electronics,WH-1000XM5 64GB Silver,3658,235
+PROD00342,Sony,Electronics,WH-1000XM5 64GB Green,66251,74
+PROD00343,Sony,Electronics,WH-1000XM5 128GB Black,58822,205
+PROD00344,Sony,Electronics,WH-1000XM5 128GB White,85307,255
+PROD00345,Sony,Electronics,WH-1000XM5 128GB Blue,22052,242
+PROD00346,Sony,Electronics,WH-1000XM5 128GB Red,25086,287
+PROD00347,Sony,Electronics,WH-1000XM5 128GB Silver,87256,158
+PROD00348,Sony,Electronics,WH-1000XM5 128GB Green,82728,295
+PROD00349,Sony,Electronics,WH-1000XM5 256GB Black,65372,258
+PROD00350,Sony,Electronics,WH-1000XM5 256GB White,59091,157
+PROD00351,Sony,Electronics,WH-1000XM5 256GB Blue,44245,145
+PROD00352,Sony,Electronics,WH-1000XM5 256GB Red,13359,162
+PROD00353,Sony,Electronics,WH-1000XM5 256GB Silver,61087,144
+PROD00354,Sony,Electronics,WH-1000XM5 256GB Green,62910,214
+PROD00355,Sony,Electronics,WH-1000XM5 512GB Black,46092,34
+PROD00356,Sony,Electronics,WH-1000XM5 512GB White,66789,186
+PROD00357,Sony,Electronics,WH-1000XM5 512GB Blue,25834,269
+PROD00358,Sony,Electronics,WH-1000XM5 512GB Red,29802,201
+PROD00359,Sony,Electronics,WH-1000XM5 512GB Silver,35862,194
+PROD00360,Sony,Electronics,WH-1000XM5 512GB Green,38655,161
+PROD00361,Sony,Electronics,PlayStation Controller 64GB Black,74848,25
+PROD00362,Sony,Electronics,PlayStation Controller 64GB White,69715,117
+PROD00363,Sony,Electronics,PlayStation Controller 64GB Blue,13221,143
+PROD00364,Sony,Electronics,PlayStation Controller 64GB Red,55271,270
+PROD00365,Sony,Electronics,PlayStation Controller 64GB Silver,74768,143
+PROD00366,Sony,Electronics,PlayStation Controller 64GB Green,64402,271
+PROD00367,Sony,Electronics,PlayStation Controller 128GB Black,60743,28
+PROD00368,Sony,Electronics,PlayStation Controller 128GB White,14196,170
+PROD00369,Sony,Electronics,PlayStation Controller 128GB Blue,31045,227
+PROD00370,Sony,Electronics,PlayStation Controller 128GB Red,33890,176
+PROD00371,Sony,Electronics,PlayStation Controller 128GB Silver,89026,208
+PROD00372,Sony,Electronics,PlayStation Controller 128GB Green,64031,291
+PROD00373,Sony,Electronics,PlayStation Controller 256GB Black,47056,237
+PROD00374,Sony,Electronics,PlayStation Controller 256GB White,74140,189
+PROD00375,Sony,Electronics,PlayStation Controller 256GB Blue,48112,252
+PROD00376,Sony,Electronics,PlayStation Controller 256GB Red,37509,176
+PROD00377,Sony,Electronics,PlayStation Controller 256GB Silver,34951,138
+PROD00378,Sony,Electronics,PlayStation Controller 256GB Green,17814,118
+PROD00379,Sony,Electronics,PlayStation Controller 512GB Black,43359,81
+PROD00380,Sony,Electronics,PlayStation Controller 512GB White,72236,114
+PROD00381,Sony,Electronics,PlayStation Controller 512GB Blue,27105,130
+PROD00382,Sony,Electronics,PlayStation Controller 512GB Red,65464,161
+PROD00383,Sony,Electronics,PlayStation Controller 512GB Silver,79278,288
+PROD00384,Sony,Electronics,PlayStation Controller 512GB Green,80222,164
+PROD00385,Nike,Fashion,Running Shoes Size-7,1323,119
+PROD00386,Nike,Fashion,Running Shoes Size-8,2926,136
+PROD00387,Nike,Fashion,Running Shoes Size-9,3456,111
+PROD00388,Nike,Fashion,Running Shoes Size-10,2976,27
+PROD00389,Nike,Fashion,Sports T-Shirt S,6300,293
+PROD00390,Nike,Fashion,Sports T-Shirt M,1536,160
+PROD00391,Nike,Fashion,Sports T-Shirt L,872,47
+PROD00392,Nike,Fashion,Sports T-Shirt XL,5033,169
+PROD00393,Adidas,Fashion,Sneakers Size-7,6213,84
+PROD00394,Adidas,Fashion,Sneakers Size-8,5725,271
+PROD00395,Adidas,Fashion,Sneakers Size-9,1340,26
+PROD00396,Adidas,Fashion,Sneakers Size-10,5202,165
+PROD00397,Adidas,Fashion,Track Pants S,4345,265
+PROD00398,Adidas,Fashion,Track Pants M,4108,194
+PROD00399,Adidas,Fashion,Track Pants L,2010,46
+PROD00400,Adidas,Fashion,Track Pants XL,2568,264
+PROD00401,Puma,Fashion,Hoodie S,1434,53
+PROD00402,Puma,Fashion,Hoodie M,3782,271
+PROD00403,Puma,Fashion,Hoodie L,1106,47
+PROD00404,Puma,Fashion,Hoodie XL,1742,96
+PROD00405,Puma,Fashion,Sneakers Size-7,5110,175
+PROD00406,Puma,Fashion,Sneakers Size-8,1197,147
+PROD00407,Puma,Fashion,Sneakers Size-9,1470,233
+PROD00408,Puma,Fashion,Sneakers Size-10,5466,135
+PROD00409,Levi's,Fashion,Jeans S,6854,287
+PROD00410,Levi's,Fashion,Jeans M,3616,250
+PROD00411,Levi's,Fashion,Jeans L,4126,172
+PROD00412,Levi's,Fashion,Jeans XL,5321,239
+PROD00413,Levi's,Fashion,Denim Jacket S,3001,50
+PROD00414,Levi's,Fashion,Denim Jacket M,5494,70
+PROD00415,Levi's,Fashion,Denim Jacket L,6748,126
+PROD00416,Levi's,Fashion,Denim Jacket XL,5624,128
+PROD00417,Allen Solly,Fashion,Formal Shirt S,2667,61
+PROD00418,Allen Solly,Fashion,Formal Shirt M,1786,142
+PROD00419,Allen Solly,Fashion,Formal Shirt L,1923,58
+PROD00420,Allen Solly,Fashion,Formal Shirt XL,1782,21
+PROD00421,Titan,Fashion,Analog Watch S,3846,250
+PROD00422,Titan,Fashion,Analog Watch M,6147,260
+PROD00423,Titan,Fashion,Analog Watch L,2885,36
+PROD00424,Titan,Fashion,Analog Watch XL,2396,167
+PROD00425,Prestige,Home & Kitchen,Pressure Cooker,23465,164
+PROD00426,Prestige,Home & Kitchen,Gas Stove,23335,252
+PROD00427,Philips,Home & Kitchen,Mixer Grinder,2632,139
+PROD00428,Philips,Home & Kitchen,Steam Iron,8968,121
+PROD00429,LG,Home & Kitchen,Microwave Oven,14230,78
+PROD00430,Kent,Home & Kitchen,Water Purifier,18144,135
+PROD00431,Milton,Home & Kitchen,Water Bottle,21521,96
+PROD00432,Butterfly,Home & Kitchen,Cookware Set,9004,92
+PROD00433,Penguin,Books,Atomic Habits,492,50
+PROD00434,Penguin,Books,Rich Dad Poor Dad,879,177
+PROD00435,Penguin,Books,Clean Code,1382,244
+PROD00436,Penguin,Books,Python Crash Course,709,259
+PROD00437,Penguin,Books,SQL Cookbook,1445,226
+PROD00438,Lakme,Beauty,Lipstick,1265,276
+PROD00439,Nivea,Beauty,Face Wash,2361,272
+PROD00440,Dove,Beauty,Shampoo,1943,61
+PROD00441,Dove,Beauty,Soap,2599,40
+PROD00442,Mamaearth,Beauty,Face Cream,1919,185
+PROD00443,Garnier,Beauty,Vitamin C Serum,2622,148
